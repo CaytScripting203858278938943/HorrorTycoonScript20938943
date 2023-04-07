@@ -1259,7 +1259,7 @@ local function SENW_fake_script()
 	local button = script.Parent
 	
 	local function onButtonClicked()
-		local copy = "https://discord.gg/sXNaSCjMXa"
+		local copy = "https://discord.gg/dZenvAevVW"
 		setclipboard(tostring(copy)) 
 	
 		game:GetService("StarterGui"):SetCore("SendNotification",{
